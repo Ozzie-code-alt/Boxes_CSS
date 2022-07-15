@@ -1,0 +1,90 @@
+.grid{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+
+}
+
+
+
+
+.firstBox{
+  background-color: aqua;
+  text-align: center;
+  border: 3px solid green;
+  width:20%; 
+  padding:50px;
+  margin-left: 13rem;
+  position:absolute;
+
+}
+.secondBox{
+background-color: aqua;
+text-align: center;
+border: 3px solid yellowgreen;
+width:20%;
+padding:50px;
+margin-left: 50rem;
+position: absolute;
+
+}
+.thirdBox{
+  background-color: aqua;
+  text-align: center;
+  padding:50px;
+  width:20%;
+  position:absolute;
+  margin-left: 13rem;
+  margin-top: 13rem;
+ 
+}
+.fourthBox{
+  background-color: aqua;
+  text-align: center;
+  padding: 50px;
+  width: 20%;
+  position:absolute;
+  margin-left: 50rem;
+  margin-top: 13rem;
+}
+
+.fifthBox{
+  background-color: aqua;
+  text-align: center;
+  padding:50px;
+  width:20%;
+  position:absolute;
+  margin-left: 13rem;
+  margin-top: 26rem;
+}
+.sixthBox{
+  background-color: aqua;
+  text-align: center;
+  padding:50px;
+  width:20%;
+  position:absolute;
+  margin-left: 50rem;
+  margin-top: 26rem;
+}
+
+.seventhBox{
+  background-color: aqua;
+  text-align: center;
+  padding:50px;
+  width:20%;
+  position:absolute;
+  margin-left: 13rem;
+  margin-top: 37.3rem;
+}
+
+.eighthBox{
+  background-color: aqua;
+  text-align: center;
+  padding:50px;
+  width:20%;
+  position:absolute;
+  margin-left: 50rem;
+  margin-top: 37.3rem;
+}
+body{
+  background-color: black;
+}
